@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Elf : Enemy
+public class Orc : Enemy
 {
     // Start is called before the first frame update
     void Start()
@@ -13,6 +13,6 @@ public class Elf : Enemy
     // Update is called once per frame
     void Update()
     {
-        
+      
     }
 }

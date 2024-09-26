@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Elf : Enemy
+public class FriendlyOrc: Orc
 {
     // Start is called before the first frame update
     void Start()
@@ -15,4 +15,6 @@ public class Elf : Enemy
     {
         
     }
+
+
 }
